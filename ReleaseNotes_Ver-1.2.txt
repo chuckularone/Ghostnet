@@ -1,0 +1,94 @@
+These are the changes I have located. Please add anything I have missed.
+
+Page 1:
+No apparent changes
+
+Page 2:
+No apparent changes
+
+Page 3:
+No apparent changes
+
+Page 4:
+No apparent changes
+
+Page 5:
+No apparent changes
+
+Page 6:
+"Typical Use Case Examples" Box added
+Bold note at bottom added
+
+Page 7:
+"North American-Australian Data Bridge"
+Line added to end of blurb
+
+Page 8:
+No apparent changes
+
+Page 9:
+RTTY frequency updated from 7.075 to 7.077
+
+Page 10:
+"North American-Australian Data Bridge"
+80m frequency updated from 3.105 to 3.575
+
+Page 11:
+RTTY frequency updated from 7.075 to 7.077
+
+Page 12:
+"Europe-Australian Data Bridge"
+80m frequency updated from 3.105 to 3.575
+
+Page 13:
+RTTY frequency updated from 7.075 to 7.077
+
+Page 14:
+"North American-Australian Data Bridge"
+80m frequency updated from 3.105 to 3.575
+
+"Europe-Australian Data Bridge"
+80m frequency updated from 3.105 to 3.575
+
+Page 15:
+New Page
+
+Page 16:
+New Page
+
+Page 15->17:
+No apparent changes
+(page number shifted two pages higher for all subsequent pages)
+
+Page 16->18:
+No apparent changes
+
+Page 17->19:
+No apparent changes
+
+Page 18->20:
+No apparent changes
+
+Page 19->21:
+No apparent changes
+
+Page 20->22:
+"GhostNet ALE Frequency List"
+Note updated
+
+Page 21->23:
+No apparent changes
+
+Page 22->24:
+Multiple changes in the "What you can receive" column 
+
+Page 23->25:
+No apparent changes
+
+Page 24->26:
+No apparent changes
+
+
+
+
+
